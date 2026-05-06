@@ -3,7 +3,9 @@
   "domain": "snakegame-online.com",
   "slug": "snakegame-online",
   "genre": "Arcade",
-  "iframeUrl": "https://games.crazygames.com/en_US/snake-io/index.html",
+  "iframeUrl": "/game/index.html",
+  "embedUrl": "https://html5.gamemonetize.co/i6y64skipzp3fqog4u2qpbqw4o2bhzar/",
+  "embedSource": "GameMonetize: Snake Game 2025",
   "seo": {
     "title": "Snake Game Online – Play Classic Snake Free | No Download",
     "description": "Play the classic Snake Game Online free in your browser. Guide your snake to eat food, grow longer, and beat your high score. No download, no account needed.",
